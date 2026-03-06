@@ -1,17 +1,14 @@
 title: Stephen Parker | Data Analyst Portfolio
-desctiption: 
 theme: hacker
 
 baseurl: ""
 
-title: [Your Name] | Data Analyst Portfolio
-email: your-email@example.com
+email: parkersteve2018@gmail.com
 description: >- # This shows up in search engine results and social shares
   Data Analyst specializing in SQL, Python, and Business Intelligence. 
   Exploring data to find actionable insights.
 baseurl: "" # The subpath of your site, e.g. /portfolio/
 
 # Social Media Links
-twitter_username: your_handle
-github_username:  your_username
-linkedin_username: your_profile
+github_username:  legodwarf
+linkedin_username: https://www.linkedin.com/in/stephen-parker-lv/

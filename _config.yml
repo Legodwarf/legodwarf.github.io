@@ -1,5 +1,5 @@
 title: Stephen Parker | Data Analyst Portfolio
-theme: hacker
+remote_theme: pages-themes/hacker@v0.2.0
 
 baseurl: ""
 
@@ -12,3 +12,6 @@ baseurl: "" # The subpath of your site, e.g. /portfolio/
 # Social Media Links
 github_username:  legodwarf
 linkedin_username: https://www.linkedin.com/in/stephen-parker-lv/
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one

@@ -3,7 +3,7 @@ remote_theme: pages-themes/hacker@v0.2.0
 
 baseurl: ""
 
-email: parkersteve2018@gmail.com
+email: <parkersteve2018@gmail.com>
 description: >- # This shows up in search engine results and social shares
   Data Analyst specializing in SQL, Python, and Business Intelligence. 
   Exploring data to find actionable insights.
